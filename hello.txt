@@ -15,5 +15,6 @@ hello world!
 hello world!
 hello world!
 hello world!
+<<<<<<< HEAD
 hello world!6666
 hello world!
